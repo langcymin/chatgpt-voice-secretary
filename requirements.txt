@@ -1,0 +1,7 @@
+openai
+sounddevice
+winsound
+gtts
+playsound==1.2.2
+os
+pyaudio
